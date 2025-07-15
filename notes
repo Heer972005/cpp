@@ -20,3 +20,13 @@ int main()
 
 // namespace-like package in java
 // wap to ask age from the user and print if they are adult or not
+
+/*
+time complexity-how much time does the code takes to excute the statment 
+space complexity-how much space it needs to excute the statement 
+
+3 case:
+Best case:
+Average case:
+Worst case: 
+ */
