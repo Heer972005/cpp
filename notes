@@ -29,4 +29,6 @@ space complexity-how much space it needs to excute the statement
 Best case:
 Average case:
 Worst case: 
+
+default-constructor without parameter
  */
