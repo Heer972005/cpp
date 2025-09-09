@@ -20,6 +20,5 @@ int main(){
         for (int i = 0; i <n;i++){
             cin >> proName >> proRat;
         }
-
         return 0;
 }
