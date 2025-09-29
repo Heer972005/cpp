@@ -21,3 +21,4 @@ int main(){
     cout << p.getAge();
     return 0;
 }
+//create class shape to draw different shapes like circle,rectangle,square

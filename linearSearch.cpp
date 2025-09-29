@@ -44,10 +44,10 @@ int main(){
     cout << "enter teh size of an array:";
     cin >> size;
     int arr[size];
-    cout << "enter the elements:\n";
+    cout << "enter the elements\n";
     for (int i = 0; i < size; i++)
     {
-        cout << "enter the elemnets on the index " << (i + 1);
+        cout << "enter the elemnets on the index: " << (i + 1);
         cin >> arr[i];
     }
     cout << "the elements:\n";
